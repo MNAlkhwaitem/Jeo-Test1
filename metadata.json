@@ -1,0 +1,5 @@
+{
+  "name": "Jeopardy Arabic Trivia",
+  "description": "A dynamic multiplayer trivia game in Arabic, where one player acts as the Game Master controlling a Jeopardy-style board, and other players submit and answer questions. Features include secret ultimate abilities and real-time scoring.",
+  "requestFramePermissions": []
+}
